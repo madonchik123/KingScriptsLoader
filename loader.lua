@@ -14,7 +14,7 @@ elseif game.PlaceId == 70005410 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Blox-Hunt/main/Gui'))()
 elseif game.PlaceId == 990566015 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Cursed-Islands/main/Gui'))()
-elseif game.PlaceId == 3956818381 then
+elseif game.PlaceId == 5977280685 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Ninja-Legends-2/main/Gui'))()
 elseif game.PlaceId == 205224386 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/zReal-King/Hide-and-Seek-Extreme/main/Gui'))()
